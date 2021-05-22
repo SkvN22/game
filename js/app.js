@@ -8,7 +8,7 @@ class Entity {
     everyStepHandler() { }
     collisionHandler() { }
 }
-
+//dfghjm
 class Player extends Entity {
     constructor(x, y, color) {
         super();
